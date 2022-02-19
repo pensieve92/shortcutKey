@@ -41,7 +41,15 @@ Assertions에서 [alt + Enter] > Add on demand
 [shift] + [F9]
 
 - ## 단축키 metod Parameter정보 확인
-[ctrl] + [p]
+[ctrl] + [P]  
+[ctrl] + [Q]  
+[ctrl] + [shift] + [i]  
+
+- ## 메서드 선언부 이동 단축키
+[ctrl] + [B]  
+
+- ## 메서드 구현부 이동 단축키
+[ctrl] + [alt] +[B]
 
 - ## 단축키 인라인으로 합치기
 (변수명에서) [ctrl] + [alt] + [N]
